@@ -1,0 +1,13 @@
+{
+  "name": "One Tap: Link Saver & Bookmark",
+  "short_name": "One Tap",
+  "description": "Save any link in one tap and read it later on iPhone and iPad, even offline.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#07070c",
+  "theme_color": "#07070c",
+  "icons": [
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/app-icon.png", "sizes": "256x256", "type": "image/png" }
+  ]
+}
